@@ -57,6 +57,10 @@
 
 링크에 있는 해당 버튼을 눌러, pdf 파일을 다운받은 후 따라하시면 됩니다.
 
+<br>
+
+실습 후, **Azure Static WebApps**에 대해 더 알아 보고 싶다면, 아래 사이트를 참고하세요.
+> [Azure Static WebApps 알아 보기](https://learn.microsoft.com/ko-kr/azure/static-web-apps/overview)
 
 
 
