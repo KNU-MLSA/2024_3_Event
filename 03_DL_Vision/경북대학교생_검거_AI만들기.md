@@ -53,7 +53,23 @@
   
 [실습 자료 pdf](https://github.com/KNU-MLSA/2024_3_Event/blob/main/03_DL_Vision/%EC%9E%90%EB%A3%8C/MLsession_CustomVision_Guide(%EA%B3%BC%EC%9E%A0%20AI%20%EC%8B%A4%EC%8A%B5%EA%B0%80%EC%9D%B4%EB%93%9C).pdf)
 
-위 실습 자료 링크에 접속해
-![image](https://github.com/KNU-MLSA/2024_3_Event/assets/114579651/51cfcbf1-c5fc-45bf-8b4e-3ed20ab42598)  
-해당 버튼을 클릭해 pdf를 다운받아 주세요.
 
+  
+위 실습 자료 링크에 접속한 후,
+![image](https://github.com/KNU-MLSA/2024_3_Event/assets/114579651/51cfcbf1-c5fc-45bf-8b4e-3ed20ab42598)  <br>
+해당 버튼을 클릭해 pdf를 다운받아 주세요.
+  
+  
+**Azure**를 사용해 본 적이 없다면
+> 👉 [Azure for Students 가입 방법](https://github.com/KNU-MLSA/2023_10_Sessions/blob/main/1_AI%EB%A1%9C%EC%97%B0%EC%95%A0%ED%99%95%EB%A5%A0%EC%98%88%EC%B8%A1%ED%95%98%EA%B8%B0/Azure%20for%20Students%20%EA%B0%80%EC%9E%85%20%EB%B0%A9%EB%B2%95.pdf)  
+
+위 링크를 따라 Azure에 가입 후, Azure for Students로 클라우드 사용권(크레딧)을 받아 주세요.
+
+
+
+그 다음 pdf를 따라가면, **경북대학생 검거 AI**를 만들 수 있습니다.
+
+
+실습 후, **경북대학생 검거 AI**에 사용된 **Object Detection** 이라는 AI 기술에 대해 더 자세히 알고 싶다면, 하단 유튜브 영상을 시청해주세요.
+
+[네잎클로버 AI로 찾기](https://youtu.be/BDaqYzBAZqI?si=Swriy8S4kRmEKAA0)
