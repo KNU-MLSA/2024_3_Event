@@ -46,3 +46,14 @@
 보통 이 **4가지 단계**로 구성됩니다.
     
 ![image](https://github.com/KNU-MLSA/2024_3_Event/assets/114579651/6aa3311e-b6f8-4fec-8976-960a6526fcc7)
+
+<br>
+  
+그럼 이제 **경북대학생 검거 AI**를 만들어 볼까요?  
+  
+[실습 자료 pdf](https://github.com/KNU-MLSA/2024_3_Event/blob/main/03_DL_Vision/%EC%9E%90%EB%A3%8C/MLsession_CustomVision_Guide(%EA%B3%BC%EC%9E%A0%20AI%20%EC%8B%A4%EC%8A%B5%EA%B0%80%EC%9D%B4%EB%93%9C).pdf)
+
+위 실습 자료 링크에 접속해
+![image](https://github.com/KNU-MLSA/2024_3_Event/assets/114579651/51cfcbf1-c5fc-45bf-8b4e-3ed20ab42598)  
+해당 버튼을 클릭해 pdf를 다운받아 주세요.
+
