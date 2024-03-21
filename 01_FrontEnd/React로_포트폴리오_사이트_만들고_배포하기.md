@@ -23,5 +23,6 @@
 <br>  
 > 리액트를 사용하면, 반복되는 양식들을 쉽게 만들 수 있어요.
 > 아래는 네이버 사이트 화면인데요. 다음 같은 초록색, 반복되는 양식들을 쉽게 만들 수 있어요.  <br>  
->![image](https://github.com/KNU-MLSA/2024_3_Event/assets/114579651/b21997cd-d4d8-45b8-a9dd-47d6be5d6c0e)
+>![image](https://github.com/KNU-MLSA/2024_3_Event/assets/114579651/3ec63a2f-78c7-4abc-b08c-a5352bce1b28)
+
 
