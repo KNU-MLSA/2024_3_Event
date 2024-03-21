@@ -72,7 +72,7 @@
 <br>
 
 
-실습 후, **경북대학생 검거 AI**에 사용된 **Object Detection** 이라는 AI 기술, <br>
-**Azure Custom Vision**에 대해 더 자세히 알고 싶다면, 하단 유튜브 영상을 시청해주세요.
+실습 후, **경북대학생 검거 AI**에 사용된 **Object Detection** 이라는 AI 기술과 <br>
+**Azure Custom Vision**에 대해 더 자세히 알고 싶다면, 하단 **유튜브 영상**을 시청해주세요.
 
 [네잎클로버 AI로 찾기](https://youtu.be/BDaqYzBAZqI?si=Swriy8S4kRmEKAA0)
