@@ -26,6 +26,7 @@
 >![image](https://github.com/KNU-MLSA/2024_3_Event/assets/114579651/3ec63a2f-78c7-4abc-b08c-a5352bce1b28)
   
 <br>  
+
 **React**를 사용해 자신만의 포트폴리오 사이트를 만든 후, **Azure Static WebApps** 라는 서비스를 이용해 모든 사람들이 <br>  
 웹 사이트를 볼 수 있도록 배포할 거예요.  
 <br>   
