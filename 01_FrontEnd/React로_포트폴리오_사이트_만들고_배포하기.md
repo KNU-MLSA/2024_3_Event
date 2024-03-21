@@ -33,4 +33,9 @@
 
 ![image](https://github.com/KNU-MLSA/2024_3_Event/assets/114579651/cff1a7a7-0d65-422a-ba45-307db139daa3)
 
+**Azure**를 사용해 본 적이 없다면
+> 👉 [Azure for Students 가입 방법](https://github.com/KNU-MLSA/2023_10_Sessions/blob/main/1_AI%EB%A1%9C%EC%97%B0%EC%95%A0%ED%99%95%EB%A5%A0%EC%98%88%EC%B8%A1%ED%95%98%EA%B8%B0/Azure%20for%20Students%20%EA%B0%80%EC%9E%85%20%EB%B0%A9%EB%B2%95.pdf)
+위 링크를 따라 Azure에 가입 후, Azure for Students로 클라우드 사용권(크레딧)을 받아 주세요.
 
+
+이제 **자신만의 포트폴리오 만들기** 실습을 해볼까요?
