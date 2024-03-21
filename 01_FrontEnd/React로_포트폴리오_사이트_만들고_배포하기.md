@@ -11,5 +11,5 @@
 
 먼저 **Front End**가 뭔지 알아 보겠습니다.  
   
-![image](https://github.com/KNU-MLSA/2024_3_Event/assets/114579651/94e48cb0-1c7f-4250-9b15-75afe1ff89ba)
+![image](https://github.com/KNU-MLSA/2024_3_Event/assets/114579651/444dcde9-8453-45c8-9d61-9aa27fb4add1)
 
