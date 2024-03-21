@@ -48,7 +48,7 @@
 [포트폴리오 템플릿](https://github.com/education/codespaces-project-template-js)
 <br>  
 위 사이트에 접속 후 
-아래 pdf를 따라 포트폴리오 사이트를 만들어 보세요.  
+아래 가이드 pdf를 따라 포트폴리오 사이트를 만들어 보세요.  
 
 [가이드 문서](https://github.com/KNU-MLSA/2024_3_Event/blob/main/01_FrontEnd/%EC%9E%90%EB%A3%8C/MLSA%202024%20%EC%83%81%EB%B0%98%EA%B8%B0%20FE%20%EC%B2%B4%ED%97%98%EB%B6%80%EC%8A%A4_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%AC%B8%EC%84%9C_%EA%B9%80%EC%98%88%EC%B0%AC.pdf)
 <br>
