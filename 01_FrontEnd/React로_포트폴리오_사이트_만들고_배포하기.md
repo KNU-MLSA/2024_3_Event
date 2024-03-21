@@ -42,3 +42,13 @@
 <br>
   
 이제 **자신만의 포트폴리오 만들기** 실습을 해볼까요?
+
+
+[포트폴리오 템플릿](https://github.com/education/codespaces-project-template-js)
+<br>  
+위 사이트에 접속 후 <br>  
+아래 pdf를 따라 포트폴리오 사이트를 만들어 보세요.  
+
+
+
+
