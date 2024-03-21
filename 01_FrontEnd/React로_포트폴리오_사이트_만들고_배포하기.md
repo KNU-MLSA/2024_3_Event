@@ -14,6 +14,8 @@
 ![image](https://github.com/KNU-MLSA/2024_3_Event/assets/114579651/76330ab4-7567-4737-ac9d-ffff44d38982)
 
 
-저희는 웹 사이트의 **Front End**를 만들 수 있는  **리액트(React)** 를 사용할 건데요.   
-**React** 가 뭐냐면  
+저희는 웹 사이트의 **Front End**를 만들 수 있는  도구로 **리액트(React)** 를 사용할 건데요.   
+**React** 가 뭐냐면    
+<br>
+<br>  
 ![image](https://github.com/KNU-MLSA/2024_3_Event/assets/114579651/05aef436-58d5-4f88-9359-d61f298f83c8)
