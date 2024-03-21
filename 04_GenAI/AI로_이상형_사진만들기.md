@@ -32,7 +32,7 @@
 <br>
 <br>
 
-## **Bing Image Creator**를 사용해 이상형 이미지 만들기
+# **Bing Image Creator**를 사용해 이상형 이미지 만들기
 
 **Bing Image Creator**를 사용해 이상형 이미지를 만들어 보겠습니다.  
 자신의 이상형 조건을 나열해 본 후,  
