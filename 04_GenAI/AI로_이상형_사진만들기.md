@@ -30,7 +30,7 @@
 <br>
 <br>
 
-**Bing Image Creator**를 사용해 이상형 이미지를 만들어 보겠습니다.  
+## **Bing Image Creator**를 사용해 이상형 이미지를 만들어 보겠습니다.  
 자신의 이상형 조건을 나열해 본 후, 하단의 영상을 참고해 **Bing Image Creator**에서 이미지를 생성해 보세요.
 >[이미지 만들기](https://www.youtube.com/watch?v=Muhutpw1RDY)
 
