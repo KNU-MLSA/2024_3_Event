@@ -31,7 +31,20 @@
 <br>
 
 ## **Bing Image Creator**를 사용해 이상형 이미지를 만들어 보겠습니다.  
-자신의 이상형 조건을 나열해 본 후, 하단의 영상을 참고해 **Bing Image Creator**에서 이미지를 생성해 보세요.
+자신의 이상형 조건을 나열해 본 후,  
+**Bing Image Creator**를 포털창에 검색해 접속하세요.
+
+![image](https://github.com/KNU-MLSA/2024_3_Event/assets/114579651/bf1dc308-5af5-490e-a8d0-bb4e640e0de8)
+
+
+**Bing Image Creator**에 자신의 이상형 조건들을 넣고 사진이 만들어지길 기다리시면 됩니다.  
+  
+![image](https://github.com/KNU-MLSA/2024_3_Event/assets/114579651/61195688-b027-4ce6-b24e-2719e8a87741)
+  
+
+   
+
+해당 내용에 어려움이 있다면, 하단의 영상을 참고해 **Bing Image Creator**에서 이미지를 생성해 보세요.
 >[이미지 만들기](https://www.youtube.com/watch?v=Muhutpw1RDY)
 
 
