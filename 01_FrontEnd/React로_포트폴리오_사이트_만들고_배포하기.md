@@ -21,8 +21,15 @@
 <br> 
 ![image](https://github.com/KNU-MLSA/2024_3_Event/assets/114579651/05aef436-58d5-4f88-9359-d61f298f83c8)  
 <br>  
-> 리액트를 사용하면, 반복되는 양식들을 쉽게 만들 수 있어요.
+> 리액트를 사용하면, 반복되는 양식들을 쉽게 만들 수 있어요.  <br>  
 > 아래는 네이버 사이트 화면인데요. 다음 같은 초록색, 반복되는 양식들을 쉽게 만들 수 있어요.  <br>  
 >![image](https://github.com/KNU-MLSA/2024_3_Event/assets/114579651/3ec63a2f-78c7-4abc-b08c-a5352bce1b28)
+  
+<br>  
+**React**를 사용해 자신만의 포트폴리오 사이트를 만든 후, **Azure Static WebApps** 라는 서비스를 이용해 모든 사람들이 <br>  
+웹 사이트를 볼 수 있도록 배포할 거예요.  
+<br>   
+
+![image](https://github.com/KNU-MLSA/2024_3_Event/assets/114579651/cff1a7a7-0d65-422a-ba45-307db139daa3)
 
 
