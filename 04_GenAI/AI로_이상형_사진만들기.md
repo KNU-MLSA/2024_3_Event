@@ -36,6 +36,9 @@
 
 **Bing Image Creator**를 사용해 이상형 이미지를 만들어 보겠습니다.  
 자신의 이상형 조건을 나열해 본 후,  
+![image](https://github.com/KNU-MLSA/2024_3_Event/assets/114579651/658c35e9-377d-4c63-bc35-bee4211883b3)
+  
+
 **Bing Image Creator**를 포털창에 검색해 접속하세요.
 
 ![image](https://github.com/KNU-MLSA/2024_3_Event/assets/114579651/bf1dc308-5af5-490e-a8d0-bb4e640e0de8)
