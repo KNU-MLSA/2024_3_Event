@@ -99,13 +99,15 @@
 > ![image](https://github.com/KNU-MLSA/2024_3_Event/assets/114579651/816bea05-2b4b-45b1-8e0d-fdd83ece8b3b)  
 > 파일을 클릭하면, 위와 같이 다운 버튼이 나옵니다. 세 파일을 모두 각각 이 다운 버튼을 눌러 다운 받아 주세요.
 
-  <br>
+<br>
+<br>
   
 본인 GitHub 계정에서 아무 리포지토리를 생성 후, 
 실습 가이드 문서(DevOps.pdf) 6p 부터 따라 해주시면 됩니다.
 > 생성한 리포지토리에 app.py와 requirements.txt를 올리면 됩니다.
 
-  <br>
+<br>
+<br>
 
 만약, 동영상으로 실습 방법을 배우고 싶다면 아래 유투브 영상을 참고해 주세요.   
 [Flask앱 CI/CD 파이프라인으로 배포하기](https://youtu.be/huNRWtL-GF8?si=pwFd_zzlKYJ3l9Kx)
