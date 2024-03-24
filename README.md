@@ -25,4 +25,7 @@
 
 ## [부스 2) DevOps: Flask앱 CI/CD 파이프라인으로 배포하기](https://github.com/KNU-MLSA/2024_3_Event/blob/main/02_DevOps/Flask%EC%95%B1_CICD%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8_%EB%A7%8C%EB%93%A4%EA%B3%A0_%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0.md)  
 
-## [부스 3) 
+## [부스 3) 딥러닝/비전 AI: 경북대생 검거 AI 만들기](https://github.com/KNU-MLSA/2024_3_Event/blob/main/03_DL_Vision/%EA%B2%BD%EB%B6%81%EB%8C%80%ED%95%99%EA%B5%90%EC%83%9D_%EA%B2%80%EA%B1%B0_AI%EB%A7%8C%EB%93%A4%EA%B8%B0.md)  
+
+## [부스 4) 생성형 AI : AI로 나만의 이상형 그리기](https://github.com/KNU-MLSA/2024_3_Event/blob/main/04_GenAI/AI%EB%A1%9C_%EC%9D%B4%EC%83%81%ED%98%95_%EC%82%AC%EC%A7%84%EB%A7%8C%EB%93%A4%EA%B8%B0.md)  
+  
