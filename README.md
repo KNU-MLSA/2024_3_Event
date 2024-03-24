@@ -4,10 +4,11 @@
 
 
 ## MLSA?
- MLSA는 **Microsoft**에서 직접 뽑는 학생 IT 기술 홍보대사입니다.  
+ **MLSA**는 **Microsoft**에서 직접 뽑는 학생 IT 기술 홍보대사입니다.  
  **MLSA**에 대해 더 자세히 알아 보고 싶다면, 아래 유투브 영상을 시청해 주세요.
 > [MLSA 알아보기](https://www.youtube.com/watch?v=i9eTs922Xmk)
 
+<br>
 <br>
 
 지난 3월 22일(2024.03.22) 경북대학교 IT 5호관 앞에서 **IT 체험 부스**가 진행됐었습니다.  
