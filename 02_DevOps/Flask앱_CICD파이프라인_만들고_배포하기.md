@@ -3,5 +3,5 @@
 <br>
 <br>
 
-**DevOps**가 무엇인지 아시나요?  
-#### **DevOps**는  **Development(개발)** 과 **Operation(운영)** 의 약자입니다.
+## **DevOps**가 무엇인지 아시나요?  
+**DevOps**는  **Development(개발)** 과 **Operation(운영)** 의 약자입니다.
