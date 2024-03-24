@@ -80,9 +80,9 @@
 
 ## 3. 실습하기
 
-간단한 웹 앱을 만든 후, **CI/CD**를 수행할 수 있는 파이프라인으로 이 앱을 배포해보겠습니다.  
+간단한 웹 앱을 **CI/CD**를 수행할 수 있는 파이프라인으로 이 앱을 배포해보겠습니다.  
 **CI/CD** 할 수 있게 하는 도구로 **GitHub Actions**을 사용할 것입니다.  
   
-[실습 가이드 문서]()
+[실습 가이드 문서](https://github.com/KNU-MLSA/2024_3_Event/blob/main/02_DevOps/%EC%9E%90%EB%A3%8C/DevOps.pdf)
 
 
