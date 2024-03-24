@@ -98,7 +98,8 @@
     
 > ![image](https://github.com/KNU-MLSA/2024_3_Event/assets/114579651/816bea05-2b4b-45b1-8e0d-fdd83ece8b3b)  
 > 파일을 클릭하면, 위와 같이 다운 버튼이 나옵니다. 세 파일을 모두 각각 이 다운 버튼을 눌러 다운 받아 주세요.
-  
+
+  <br>
   
 본인 GitHub 계정에서 아무 리포지토리를 생성 후, 
 실습 가이드 문서(DevOps.pdf) 6p 부터 따라 해주시면 됩니다.
