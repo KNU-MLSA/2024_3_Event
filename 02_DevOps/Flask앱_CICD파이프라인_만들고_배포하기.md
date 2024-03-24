@@ -92,8 +92,11 @@
   
 그 다음  
   
-[실습 가이드 문서](https://github.com/KNU-MLSA/2024_3_Event/blob/main/02_DevOps/%EC%9E%90%EB%A3%8C/DevOps.pdf)
-  
-![image](https://github.com/KNU-MLSA/2024_3_Event/assets/114579651/816bea05-2b4b-45b1-8e0d-fdd83ece8b3b)
+![image](https://github.com/KNU-MLSA/2024_3_Event/assets/114579651/f897d53e-c9a1-4e9e-920f-5b131115eaf5)
+
+실습 가이드 문서(Devops.pdf), app.py, requirements.txt를 다 다운받아 주세요.  
+    
+> ![image](https://github.com/KNU-MLSA/2024_3_Event/assets/114579651/816bea05-2b4b-45b1-8e0d-fdd83ece8b3b)  
+> 파일을 클릭하면, 위와 같이 다운 버튼이 나옵니다. 세 파일을 모두 각각 이 다운 버튼을 눌러 다운 받아 주세요.
 
 
